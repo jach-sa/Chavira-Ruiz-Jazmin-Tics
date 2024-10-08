@@ -1,0 +1,15 @@
+public class Main {
+
+    public static void main(String[] args) {
+        // Imprimir un mensaje en la consola
+        System.out.println("¡Hola Mundo!");
+        
+        // Hacer una operación simple
+        int num1 = 5;
+        int num2 = 10;
+        int suma = num1 + num2;
+
+        // Mostrar el resultado de la suma
+        System.out.println("La suma de " + num1 + " y " + num2 + " es: " + suma);
+    }
+}
